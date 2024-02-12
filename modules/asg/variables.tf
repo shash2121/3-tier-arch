@@ -1,0 +1,12 @@
+variable "launch_temp_name" {}
+variable "ami_id" {}
+variable "instance_type" {}
+variable "volume_size" {}
+variable "asg_name" {}
+variable "min_size" {}
+variable "max_size" {}
+variable "desired_capacity" {}
+variable "subnet_ids" {}
+variable "name" {}
+variable "sg_id" {}
+variable "key_name" {}
